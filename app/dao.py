@@ -16,5 +16,5 @@ def load_products(cate_id=None):
         products = json.load(f)
         if cate_id:
             # Nhớ chuyển dữ liệu cate_id về số
-            products = [p for p in products if p['category-id'] == int(cate_id)]
+            products = [p for p in products if p['category_id'] == int(cate_id)]
         return products

@@ -4,23 +4,65 @@
     "name": "Iphone13_pro_max",
     "description": "Apple , 128GB , RAM 3GB , iOS16.1",
     "price": "14000000",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcellphones.com.vn%2Fiphone-13-pro-max.html&psig=AOvVaw2Z0deeUyyudEB5PxVnIf_N&ust=1729787097060000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKifxJ31pIkDFQAAAAAdAAAAABAE",
-    "category-id":1
+    "image": "https://24hstore.vn/images/products/2024/09/10/large/iphone-16-1.jpg",
+    "category_id":1
   },
   {
     "id": 2,
     "name": "Iphone_16_promax",
     "description": "Apple , 256GB , RAM 6GB , iOS17.2",
     "price": "50000000",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegioididong.com%2Fdtdd%2Fiphone-16-pro-max&psig=AOvVaw3l1l9A_cA8idl5zwZN-vUG&ust=1729787209408000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjz6dL1pIkDFQAAAAAdAAAAABAY",
-    "category-id":2
+    "image": "https://24hstore.vn/images/products/2024/08/22/large/iphone-15-pro-hinh-1.jpg",
+    "category_id":2
   },
   {
     "id": 3,
     "name": "Iphone_15_promax",
     "description": "Apple , 256GB , RAM 6GB , iOS17.2",
     "price": "50000000",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegioididong.com%2Fdtdd%2Fiphone-16-pro-max&psig=AOvVaw3l1l9A_cA8idl5zwZN-vUG&ust=1729787209408000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjz6dL1pIkDFQAAAAAdAAAAABAY",
-    "category-id":2
+    "image": "https://24hstore.vn/images/products/2024/09/10/large/iphone-16-pro-01.jpg",
+    "category_id":2
+  },
+  {
+    "id": 4,
+    "name": "Iphone_15_promax",
+    "description": "Apple , 256GB , RAM 6GB , iOS17.2",
+    "price": "50000000",
+    "image": "https://24hstore.vn/images/products/2023/09/27/large/iphone%2015%20Plus%20black_1695790477_1.jpg",
+    "category_id":2
+  },
+  {
+    "id": 5,
+    "name": "Iphone_15_promax",
+    "description": "Apple , 256GB , RAM 6GB , iOS17.2",
+    "price": "50000000",
+    "image": "",
+    "category_id":2
+  }
+  ,
+  {
+    "id": 6,
+    "name": "Iphone_15_promax",
+    "description": "Apple , 256GB , RAM 6GB , iOS17.2",
+    "price": "50000000",
+    "image": "",
+    "category_id":2
+  }
+  ,
+  {
+    "id": 7,
+    "name": "Iphone_15_promax",
+    "description": "Apple , 256GB , RAM 6GB , iOS17.2",
+    "price": "50000000",
+    "image": "",
+    "category_id":2
+  },
+  {
+    "id": 8,
+    "name": "Iphone_15_promax",
+    "description": "Apple , 256GB , RAM 6GB , iOS17.2",
+    "price": "50000000",
+    "image": "",
+    "category_id":2
   }
 ]

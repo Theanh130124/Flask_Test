@@ -1,6 +1,7 @@
 body {
     background-color:lightblue ;
     color: darkblue;
+
 }
 h1 {
 color: white;
@@ -10,7 +11,9 @@ margin: 0;
 }
 .row{
 margin : 5% ;
+
 }
-.card{
-padding: 2%
+
+.card-text{
+
 }

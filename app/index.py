@@ -9,11 +9,12 @@ from app import dao
 @app.route('/') # @saleapp nếu như saleapp = Flask(...)
 def index():
     # return  'hello the anh'
-    cate_id = request.args.get('category-id')
+    cate_id = request.args.get('category_id')
+    # Sau khi viết cate_id thì qua bên dao.py truyền vào load_product
     categories = dao.load_categories()
     products = dao.load_products(cate_id)
     return  render_template('index.html' , categories = categories , products =products) #nó sẽ tự động tìm trong templates
-#categories red là biến dùng ngoài templates còn màu trắng là biến = dao.load_categories
+#categories red là biến dùng ngoài templates -> nghĩa là trên index nó dùng ,  còn màu trắng là biến = dao.load_categories
 
 
 
